@@ -25,5 +25,5 @@ if soma // 10 == 7:
 if soma % 10 == 7:
     soma -= 7   
 
-print(soma)    
+print(f"O resultado da soma é {soma}")    
 
